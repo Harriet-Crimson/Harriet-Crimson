@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harriet-Crimson
-- 👀 I’m interested in Game Dev
-- 🌱 I’m currently learning Java and JavaScript(html).
+- 👀 I’m interested in Game Dev and cyber security.
+- 🌱 I’m currently learning Python, Java, JavaScript(html) and C++.
 - 📫 How to reach me don't
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: pseudocode is the walmart version of any coding language.
